@@ -4,7 +4,7 @@ This is a messaging application where users can send messages and images to each
 
 ## Website URL:
 
-[Messaging App](https://killiman.xyz)
+[Messaging App](https://my-messaging-app.netlify.app)
 
 # Technologies Used:
 * React
